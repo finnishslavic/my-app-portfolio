@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="default_background">#ffdfeaf1</color>
+  <color name="udacity_normal">#fff08c35</color>
+  <color name="udacity_dark">#fff27a11</color>
+  <color name="red_normal">#ffd73357</color>
+  <color name="red_dark">#ffc40831</color>
+</resources>

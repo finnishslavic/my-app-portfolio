@@ -1,0 +1,22 @@
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+  </style>
+
+  <style name="PortfolioButton">
+    <item name="android:background">@drawable/btn_udacity_selector</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_marginLeft">40dp</item>
+    <item name="android:layout_marginRight">40dp</item>
+    <item name="android:layout_marginTop">8dp</item>
+    <item name="android:layout_marginBottom">8dp</item>
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:shadowColor">@android:color/black</item>
+    <item name="android:shadowRadius">2</item>
+    <item name="android:shadowDx">2</item>
+    <item name="android:shadowDy">2</item>
+  </style>
+
+</resources>
